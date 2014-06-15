@@ -108,4 +108,4 @@ class ResPartner(Model):
                                         fnct_inv=_write_name),
 
                 'firstname': fields.char("Firstname"),
-                'lastname': fields.char("Lastname", required=True)}
+                'lastname': fields.char("Lastname")}
